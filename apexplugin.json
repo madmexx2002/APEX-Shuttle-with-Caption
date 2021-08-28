@@ -5,9 +5,10 @@
     "keywords": ["oracle", "apex", "plugin", "dynamic action", "shuttle", "caption"],
     "homepage": "https://github.com/madmexx2002/APEX-Shuttle-with-Caption",
     "bugs": {
-        "url": "https://github.com/madmexx2002/APEX-Shuttle-with-Caption"
+        "url": "https://github.com/madmexx2002/APEX-Shuttle-with-Caption/issues"
     },
     "license": "MIT",
+    "commercial" : "No",
     "author": {
         "name": "Mark Lenzer"
     },
