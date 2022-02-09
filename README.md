@@ -7,7 +7,7 @@ This plug-in is used to set custom captions over/under the selection area of the
 ## Setup
 
 * Create Dynamic Action on Page Load
-* Selet Action "APEX Shuttle with Caption [Plug-In]"
+* Select Action "APEX Shuttle with Caption [Plug-In]"
 * Set your custom captions under "Settings" 
 * Select the shuttle under "Affected Elements"
 
